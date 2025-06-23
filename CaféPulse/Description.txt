@@ -1,0 +1,21 @@
+🧑‍💼 Client Brief:
+CaféPulse is a growing café chain with 30+ outlets. They want to understand which products are top sellers, peak hours, customer preferences, and optimize inventory based on demand.
+
+📌 Requirements:
+Analyze transactional sales data (items, timestamp, outlet ID).
+
+Track top-selling items by time/day/outlet.
+
+Analyze customer frequency (loyalty behavior).
+
+Suggest items to remove or combo deals to create.
+
+Build an interactive dashboard (Power BI or Tableau preferred).
+✅ Deliverables:
+Sales heatmap by hour/day.
+
+Top products by outlet.
+
+Customer segmentation (new vs repeat).
+
+Dashboard + 2-page strategy recommendation doc.
