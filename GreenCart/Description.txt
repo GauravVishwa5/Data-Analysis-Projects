@@ -1,0 +1,21 @@
+"GreenCart" - Price Optimization for Online Grocery
+🧑‍💼 Client Brief:
+GreenCart is an online grocery platform struggling with pricing. They suspect some products are overpriced or underperforming.
+
+📌 Requirements:
+Analyze past 12 months' sales data (price, quantity sold, category).
+
+Build a price elasticity model.
+
+Identify products with low margin but high elasticity.
+
+Recommend new price points for 20+ products.
+
+✅ Deliverables:
+Product-wise sales vs price correlation.
+
+Price elasticity report.
+
+Excel sheet with current & suggested prices.
+
+Visualization of impact scenarios.
