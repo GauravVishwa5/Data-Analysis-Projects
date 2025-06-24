@@ -1,0 +1,21 @@
+ "EduPulse" - Student Dropout Risk Prediction for E-learning
+🧑‍💼 Client Brief:
+EduPulse is an edtech platform offering live courses. Many students don’t complete their courses. Management wants to predict and reduce dropout.
+
+📌 Requirements:
+Analyze user engagement (video views, quiz attempts, login time).
+
+Define dropout (e.g., 50% video unviewed + no login in 14 days).
+
+Create ML model to flag risk early.
+
+Identify reasons (bad content? timing? workload?).
+
+✅ Deliverables:
+Dropout risk model.
+
+Weekly cohort analysis.
+
+Visual insights + heatmaps.
+
+PDF report + model performance metrics.
