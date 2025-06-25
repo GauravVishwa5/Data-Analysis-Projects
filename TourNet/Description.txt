@@ -1,0 +1,21 @@
+ "TourNet" - Travel Trend Analysis from Social Media
+🧑‍💼 Client Brief:
+TourNet is a travel agency that wants to launch tour packages based on what’s trending online (Insta, Twitter, blogs).
+
+📌 Requirements:
+Collect (scrape) posts with hashtags like #wanderlust, #travel2025.
+
+Use NLP to extract most mentioned destinations.
+
+Analyze seasonality and sentiment.
+
+Identify influencers creating buzz.
+
+✅ Deliverables:
+Dashboard of trending destinations.
+
+Sentiment chart of top 5 countries.
+
+Word cloud + influencer mention report.
+
+1-page launch plan for 2 tour packages.
