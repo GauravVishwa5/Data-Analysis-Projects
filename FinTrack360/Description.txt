@@ -1,0 +1,21 @@
+"FinTrack360" – Expense Categorization & Saving Pattern Analysis App
+🧑‍💼 Client Brief:
+A fintech startup wants to help users manage their finances by analyzing transaction data from SMS, bank statements, and UPI logs.
+
+📌 Requirements:
+Categorize expenses (food, travel, bills, shopping, etc.).
+
+Detect recurring expenses (Netflix, EMI, rent).
+
+Analyze income vs expense trends over months.
+
+Predict monthly surplus or deficit.
+
+✅ Deliverables:
+Expense breakdown dashboard.
+
+Savings trend chart.
+
+PDF report with budget suggestions.
+
+Predictive model for future expense alert.
