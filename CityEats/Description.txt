@@ -1,0 +1,21 @@
+"CityEats" – Online Food Delivery Trends and Delay Analysis
+🧑‍💼 Client Brief:
+CityEats, a Zomato-like startup, wants to analyze their food order data to find delay causes and improve service time.
+
+📌 Requirements:
+Analyze delivery time vs estimated time.
+
+Compare delays by area, weather, time of day.
+
+Identify which restaurants cause delays.
+
+Suggest traffic or kitchen improvements.
+
+✅ Deliverables:
+Delay heatmap by area and time.
+
+Restaurant delay leaderboard.
+
+Actionable insights for 10% faster delivery.
+
+KPI dashboard with filters.
