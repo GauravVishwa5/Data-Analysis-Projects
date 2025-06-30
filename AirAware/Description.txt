@@ -1,0 +1,21 @@
+"AirAware" – Real-time Air Quality Monitoring Dashboard
+🧑‍💼 Client Brief:
+A smart city project wants a dashboard that shows live air quality (AQI) across major cities using public APIs.
+
+📌 Requirements:
+Fetch data from AQICN or OpenAQ API.
+
+Track AQI, PM2.5, PM10, CO, NO2, etc.
+
+Show alerts for cities with dangerous levels.
+
+Compare city-wise AQI trends (last 7 days).
+
+✅ Deliverables:
+Real-time AQI dashboard (Map + Charts).
+
+City-wise comparison table.
+
+Automated alerts (e.g., color-coded AQI).
+
+Mobile-friendly version.
